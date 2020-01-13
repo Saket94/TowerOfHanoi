@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+  <Row>
+    <Message>Some Error Msg</Message>
+    <Type>Error</Type>
+    <operation>Test1</operation>
+  </Row>
+  <Row>
+    <Message>Some Warning Msg</Message>
+    <Type>Warning</Type>
+    <operation>Test2</operation>
+  </Row>
+  <Row>
+    <Message>Some Exception Msg</Message>
+    <Type>Error</Type>
+    <operation>Test3</operation>
+  </Row>
+</Rows>

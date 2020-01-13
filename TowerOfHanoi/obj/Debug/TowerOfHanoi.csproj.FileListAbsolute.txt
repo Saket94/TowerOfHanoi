@@ -1,0 +1,7 @@
+C:\Users\cis\Source\Repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\cis\Source\Repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\cis\Source\Repos\TowerOfHanoi\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\cis\Source\Repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csprojAssemblyReference.cache
+C:\Users\cis\Source\Repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\cis\Source\Repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\cis\Source\Repos\TowerOfHanoi\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
